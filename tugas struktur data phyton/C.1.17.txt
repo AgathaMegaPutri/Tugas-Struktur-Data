@@ -1,0 +1,2 @@
+Perintah berikut tidak akan berhasil. val adalah alias ke elemen aktual dalam data dan 
+menugaskan objek baru ke dalamnya hanya akan mengubah nilai val.

@@ -1,0 +1,2 @@
+Alasan mengapa parameter aktual yang dikirim oleh penelepon fungsi diubah adalah bahwa parameternya adalah daftar (array) dan elemen tertentu dari array 
+ditetapkan ke objek numerik baru.
